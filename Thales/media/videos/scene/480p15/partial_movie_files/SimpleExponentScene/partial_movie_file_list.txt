@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/SimpleExponentScene/1185818338_112342723_223132457.mp4'
-file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/SimpleExponentScene/624642324_1704852926_85082468.mp4'
-file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/SimpleExponentScene/624642324_1275382308_1458573349.mp4'
-file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/SimpleExponentScene/624642324_418043316_1995879328.mp4'
-file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/SimpleExponentScene/624642324_1141282389_2070602737.mp4'
