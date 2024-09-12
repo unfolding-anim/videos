@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/1185818338_471962693_3040241583.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_1141282389_528428623.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_3627311412_3925934250.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_2741885095_4287427143.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_1141282389_1185930637.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_2828989060_3325250413.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_3803400294_1501590890.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_1141282389_1437621421.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_309111141_4147118476.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_1141282389_3958413689.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_2934997944_2309670988.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Latex/624642324_1141282389_2603881657.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/DynamicExponentScene/1185818338_112342723_223132457.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/DynamicExponentScene/624642324_1704852926_85082468.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/DynamicExponentScene/624642324_3905578982_2721780507.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/DynamicExponentScene/624642324_1704852926_1570948191.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/DynamicExponentScene/624642324_3126153604_1379129281.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/DynamicExponentScene/624642324_1141282389_1821707105.mp4'

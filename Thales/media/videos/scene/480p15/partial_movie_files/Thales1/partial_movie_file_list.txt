@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/1185818338_2747675974_223132457.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/624642324_2231121577_109023443.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/624642324_855968506_2650041713.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/624642324_6226677_2794315255.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/624642324_682940885_969242231.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/624642324_1671227648_3888161126.mp4'
+file 'file:/Users/adamyoung/Downloads/project/media/videos/scene/480p15/partial_movie_files/Thales1/624642324_1141282389_769695654.mp4'
